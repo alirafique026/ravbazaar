@@ -2674,4 +2674,5 @@ body::before {
   margin: auto 40px auto 40px;
   font-size: 23px;
   text-align: justify;
+  overflow: auto;
 }
